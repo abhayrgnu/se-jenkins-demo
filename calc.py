@@ -23,12 +23,6 @@ def divide(x, y):
     return x / y
 
 
-print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
-
 # take input from the user
 choice = str(sys.argv[3])
 # print(choice)
